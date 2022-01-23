@@ -1,0 +1,5 @@
+.background{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30.0.7), rgba(4,9,30.0.7)),url(src="https://th.bing.com/th/id/OIP.7ideCns4tm5wY-a_VQ32-wHaE8?w=262&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"));
+}
